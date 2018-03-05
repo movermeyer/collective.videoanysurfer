@@ -25,11 +25,11 @@ This addons depends on:
 Badges
 ======
 
-.. image:: https://pypip.in/v/collective.videoanysurfer/badge.png
+.. image:: https://img.shields.io/pypi/v/collective.videoanysurfer.svg
     :target: https://crate.io/packages/collective.videoanysurfer/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/collective.videoanysurfer/badge.png
+.. image:: https://img.shields.io/pypi/dm/collective.videoanysurfer.svg
     :target: https://crate.io/packages/collective.videoanysurfer/
     :alt: Number of PyPI downloads
 
